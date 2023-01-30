@@ -21,5 +21,5 @@ The Purpose of this analysis is to determine the number of retiring employees pe
 ## Summary
 There are 90,398 positions that will need to be filled for the "silver tsunami".
 
-There are not enough quelified, retirement- ready employees to mentor the next generation since there are only 1,940 employees who are eligible to participate in a mentorship program.
+There are not enough quelified, retirement- ready employees to mentor the next generation since there are only such few employees who are eligible to participate in a mentorship program.
 
